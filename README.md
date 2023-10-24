@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 👨‍💻 IT engineer
+- 💻 Cloud and Cybersecurity engineering student
+- 👨‍💼 Manager of systems
+- 📷 Rookie ph.
+
+
+![AlfaSierra92's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfaSierra92&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--
 **AlfaSierra92/AlfaSierra92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
