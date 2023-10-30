@@ -9,6 +9,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown            1 hr 18 mins    ██████████████▒░░░░░░░░░░   57.47 %
+Other               27 mins         █████░░░░░░░░░░░░░░░░░░░░   20.03 %
+JSON                17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+HTML                4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Text                2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
