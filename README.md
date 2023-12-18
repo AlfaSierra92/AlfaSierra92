@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2056%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,16 +48,20 @@ Sunday                   56 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 min               █████████████████████████   98.16 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Google Cloud File        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+electricity              1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -73,7 +77,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2023-12-17 UTC
+ Last Updated on 2023-12-18 UTC
 <!--END_SECTION:waka-->
 
 <!--
