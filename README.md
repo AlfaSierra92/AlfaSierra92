@@ -48,17 +48,16 @@ Sunday                   58 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     0 secs              ███████████████░░░░░░░░░░   60.89 % 
-Python                   0 secs              ██████████░░░░░░░░░░░░░░░   39.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-faccialibro              0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +73,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-01-27 UTC
+ Last Updated on 2024-01-28 UTC
 <!--END_SECTION:waka-->
 
 <!--
