@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2012%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -17,7 +17,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -46,16 +46,20 @@ Sunday                   64 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Docker                   24 mins             ███████████░░░░░░░░░░░░░░   42.81 % 
+Go                       23 mins             ██████████░░░░░░░░░░░░░░░   41.13 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+apt-proxy                56 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    56 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +75,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-04-07 UTC
+ Last Updated on 2024-04-08 UTC
 <!--END_SECTION:waka-->
 
 <!--
