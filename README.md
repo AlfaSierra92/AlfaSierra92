@@ -9,6 +9,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2036%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 61.0 kB Used in GitHub's Storage 
@@ -69,7 +71,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-04-15 UTC
+ Last Updated on 2024-04-16 UTC
 <!--END_SECTION:waka-->
 
 <!--
