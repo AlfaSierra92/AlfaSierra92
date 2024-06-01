@@ -9,13 +9,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2032%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 61.6 kB Used in GitHub's Storage 
- > 
-> 🏆 170 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,7 +79,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-05-31 UTC
+ Last Updated on 2024-06-01 UTC
 <!--END_SECTION:waka-->
 
 <!--
