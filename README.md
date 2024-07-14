@@ -48,18 +48,16 @@ Sunday                   80 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     18 mins             ████████████░░░░░░░░░░░░░   49.89 % 
-Markdown                 10 mins             ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-Text                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AccessCategories         37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +73,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-07-13 UTC
+ Last Updated on 2024-07-14 UTC
 <!--END_SECTION:waka-->
 
 <!--
