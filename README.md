@@ -1,8 +1,6 @@
 ### Hi there 👋
 - 👨‍💻 IT engineer
 - 💻 Cloud and Cybersecurity engineering student
-- 👨‍💼 Manager of systems
-- 📷 Rookie ph.
 
 
 ![AlfaSierra92's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfaSierra92&theme=nord)
