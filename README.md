@@ -7,17 +7,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 101.3 kB Used in GitHub's Storage 
  > 
-> 🏆 438 Contributions in the Year 2024
+> 🏆 439 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -46,17 +46,17 @@ Sunday                   96 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      3 hrs 11 mins       █████████████████████████   100.00 % 
+TeX                      1 hr 24 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 24 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-master-thesis            2 hrs 24 mins       ███████████████████░░░░░░   75.87 % 
-Presentazione            46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+Presentazione            46 mins             ██████████████░░░░░░░░░░░   54.28 % 
+master-thesis            38 mins             ███████████░░░░░░░░░░░░░░   45.72 % 
 
 💻 Operating System: 
-Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,7 +72,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-10-01 UTC
+ Last Updated on 2024-10-02 UTC
 <!--END_SECTION:waka-->
 
 <!--
