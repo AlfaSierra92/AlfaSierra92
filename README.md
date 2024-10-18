@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 👨‍💻 IT engineer
-- 💻 Cloud and Cybersecurity engineering student (master degree soon)
+- 👨‍💻 ICT engineer
 
 
 ![AlfaSierra92's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfaSierra92&theme=nord)
