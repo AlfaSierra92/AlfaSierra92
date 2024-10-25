@@ -13,6 +13,8 @@
 
 > 📦 95.2 kB Used in GitHub's Storage 
  > 
+> 🏆 453 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -44,16 +46,16 @@ Sunday                   83 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Presentazione            1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -69,7 +71,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-10-24 UTC
+ Last Updated on 2024-10-25 UTC
 <!--END_SECTION:waka-->
 
 <!--
