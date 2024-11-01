@@ -46,16 +46,16 @@ Sunday                   83 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Jupyter                  0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ACPlot                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +71,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-10-31 UTC
+ Last Updated on 2024-11-01 UTC
 <!--END_SECTION:waka-->
 
 <!--
