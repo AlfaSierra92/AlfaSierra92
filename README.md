@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👨‍💻 **ICT engineer**
+- 👨‍💻 **Research fellow in Computer Engineering** at [UNIMORE](https://international.unimore.it/).
 - 👨‍🎓 **M.Sc in Computer Engineering** with a specialization in cloud & cybersecurity from [UNIMORE](https://international.unimore.it/).
 
 
