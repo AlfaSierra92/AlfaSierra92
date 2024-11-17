@@ -13,8 +13,6 @@
 
 > 📦 111.4 kB Used in GitHub's Storage 
  > 
-> 🏆 481 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 23 Public Repositories 
@@ -46,16 +44,16 @@ Sunday                   84 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Jupyter                  2 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dsrc-plots               2 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +69,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-11-16 UTC
+ Last Updated on 2024-11-17 UTC
 <!--END_SECTION:waka-->
 
 <!--
