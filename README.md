@@ -7,8 +7,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2015%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 140.6 kB Used in GitHub's Storage 
@@ -21,43 +19,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                395 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-🌆 Daytime                1078 commits        ███████████████░░░░░░░░░░   59.00 % 
-🌃 Evening                348 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Tuesday                  450 commits         ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-Wednesday                286 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Thursday                 272 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Friday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Saturday                 297 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Sunday                   88 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -71,7 +32,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-03-27 UTC
+ Last Updated on 2025-03-28 UTC
 <!--END_SECTION:waka-->
 
 <!--
