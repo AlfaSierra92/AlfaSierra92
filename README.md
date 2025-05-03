@@ -7,8 +7,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2025%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 140.6 kB Used in GitHub's Storage 
@@ -71,7 +69,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-05-02 UTC
+ Last Updated on 2025-05-03 UTC
 <!--END_SECTION:waka-->
 
 <!--
