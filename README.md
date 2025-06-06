@@ -46,16 +46,16 @@ Sunday                   88 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Jupyter                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-timestamp                11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +71,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-06-04 UTC
+ Last Updated on 2025-06-06 UTC
 <!--END_SECTION:waka-->
 
 <!--
