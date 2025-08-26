@@ -7,11 +7,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 140.6 kB Used in GitHub's Storage 
+> 📦 140.7 kB Used in GitHub's Storage 
  > 
 > 🏆 68 Contributions in the Year 2025
  > 
@@ -46,16 +46,18 @@ Sunday                   88 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   11 mins             ██████████████████░░░░░░░   73.67 % 
+Image (svg)              4 mins              ███████░░░░░░░░░░░░░░░░░░   26.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sumo                     11 mins             ██████████████████░░░░░░░   72.77 % 
+Unknown Project          4 mins              ███████░░░░░░░░░░░░░░░░░░   27.23 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +73,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-08-25 UTC
+ Last Updated on 2025-08-26 UTC
 <!--END_SECTION:waka-->
 
 <!--
