@@ -7,13 +7,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2044%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 142.7 kB Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2026
+> 🏆 48 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,17 +22,17 @@
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
-TeX                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Python                   13 repos            ██████████░░░░░░░░░░░░░░░   38.24 % 
+TeX                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
 
 
- Last Updated on 2026-05-14 UTC
+ Last Updated on 2026-05-15 UTC
 <!--END_SECTION:waka-->
 
 <!--
