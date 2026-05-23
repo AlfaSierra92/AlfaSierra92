@@ -7,11 +7,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2047%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 142.7 kB Used in GitHub's Storage 
  > 
-> 🏆 49 Contributions in the Year 2026
+> 🏆 48 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,7 +71,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-22 UTC
+ Last Updated on 2026-05-23 UTC
 <!--END_SECTION:waka-->
 
 <!--
