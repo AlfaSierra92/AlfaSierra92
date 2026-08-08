@@ -7,6 +7,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%205%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 143.4 kB Used in GitHub's Storage 
@@ -19,6 +23,49 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                428 commits         ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+🌆 Daytime                1115 commits        ███████████████░░░░░░░░░░   58.44 % 
+🌃 Evening                359 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Tuesday                  468 commits         ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Wednesday                302 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Friday                   178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Saturday                 297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Sunday                   91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -32,7 +79,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-07 UTC
+ Last Updated on 2026-08-08 UTC
 <!--END_SECTION:waka-->
 
 <!--
