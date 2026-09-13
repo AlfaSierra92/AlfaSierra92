@@ -48,22 +48,41 @@ Sunday                   91 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   30 mins             ██████████████████████░░░   89.00 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  33 mins             ████████████████████████░   96.41 % 
+Codex Vscode             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Workshop Vegas           34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 mins (9.91%)
+
+✍️ 282 lines written by AI, 228 lines written by hand (55.29% AI-written)
+
+🔤 39,875 Input Tokens, 5,814 Output Tokens
+
+💵 $0.88 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+GPT                      282 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 55.29% of written lines came from AI
+📝 Concise Prompter — average 321 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 51.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +98,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-12 UTC
+ Last Updated on 2026-09-13 UTC
 <!--END_SECTION:waka-->
 
 <!--
