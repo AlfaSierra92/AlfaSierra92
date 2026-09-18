@@ -7,15 +7,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2036%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 149.9 kB Used in GitHub's Storage 
  > 
-> 🏆 61 Contributions in the Year 2026
+> 🏆 62 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,20 +26,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                428 commits         ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-🌆 Daytime                1122 commits        ███████████████░░░░░░░░░░   58.59 % 
-🌃 Evening                359 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+🌞 Morning                429 commits         ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+🌆 Daytime                1122 commits        ███████████████░░░░░░░░░░   58.56 % 
+🌃 Evening                359 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
 🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Tuesday                  470 commits         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-Wednesday                307 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Friday                   178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Saturday                 297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Monday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Tuesday                  470 commits         ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Wednesday                307 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Thursday                 293 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Friday                   178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Saturday                 297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
 Sunday                   91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 ```
 
@@ -48,45 +48,46 @@ Sunday                   91 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    34 mins             █████████░░░░░░░░░░░░░░░░   34.26 % 
-Python                   33 mins             ████████░░░░░░░░░░░░░░░░░   32.99 % 
-Markdown                 27 mins             ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-C#                       3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Python                   57 mins             ███████████░░░░░░░░░░░░░░   42.42 % 
+Other                    40 mins             ████████░░░░░░░░░░░░░░░░░   30.20 % 
+Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+C#                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-Codex Vscode             59 mins             ███████████████░░░░░░░░░░   58.82 % 
-VS Code                  41 mins             ██████████░░░░░░░░░░░░░░░   41.18 % 
+Codex Vscode             1 hr 9 mins         █████████████░░░░░░░░░░░░   51.46 % 
+VS Code                  1 hr 5 mins         ████████████░░░░░░░░░░░░░   48.54 % 
 
 🐱‍💻 Projects: 
-nzbdav                   1 hr 3 mins         ████████████████░░░░░░░░░   62.97 % 
-Workshop Vegas           37 mins             █████████░░░░░░░░░░░░░░░░   36.78 % 
-ria                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+nzbdav                   1 hr 7 mins         ████████████░░░░░░░░░░░░░   50.00 % 
+Workshop Vegas           1 hr 1 min          ███████████░░░░░░░░░░░░░░   45.25 % 
+referenced-chatgpt-conver6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+ria                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (66.27%)
+⏱ AI Coding Time: 1 hr 16 mins (57.03%)
 
-✍️ 282 lines written by AI, 240 lines written by hand (54.02% AI-written)
+✍️ 334 lines written by AI, 334 lines written by hand (50.0% AI-written)
 
-🔤 570,251 Input Tokens, 143,339 Output Tokens
+🔤 651,689 Input Tokens, 151,099 Output Tokens
 
-💵 $28.04 Estimated AI Cost This Week
+💵 $30.96 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 11 AI Prompts
+🧠 5 AI Sessions, 14 AI Prompts
 
-GPT                      282 lines           █████████████████████████   100.00 % 
+GPT                      334 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 54.02% of written lines came from AI
-📝 Concise Prompter — average 283 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 52.36% of changed lines were hand-edited
+⚖️ Balanced with AI — 50.0% of written lines came from AI
+📝 Concise Prompter — average 436 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 54.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +103,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-17 UTC
+ Last Updated on 2026-09-18 UTC
 <!--END_SECTION:waka-->
 
 <!--
