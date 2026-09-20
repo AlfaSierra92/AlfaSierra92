@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%209%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2036%20mins-blue?style=flat)
 
@@ -48,46 +48,46 @@ Sunday                   91 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 14 mins        ████████████░░░░░░░░░░░░░   48.77 % 
-Other                    35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-C#                       13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Python                   51 mins             ██████████░░░░░░░░░░░░░░░   41.20 % 
+Other                    35 mins             ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+Markdown                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+C#                       13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        ███████████████░░░░░░░░░░   58.10 % 
-Codex Vscode             1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   41.90 % 
+VS Code                  1 hr 3 mins         █████████████░░░░░░░░░░░░   50.42 % 
+Codex Vscode             1 hr 2 mins         ████████████░░░░░░░░░░░░░   49.58 % 
 
 🐱‍💻 Projects: 
-Workshop Vegas           1 hr 18 mins        █████████████░░░░░░░░░░░░   51.49 % 
-nzbdav                   1 hr 7 mins         ███████████░░░░░░░░░░░░░░   44.30 % 
-referenced-chatgpt-conver6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-ria                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+nzbdav                   1 hr 7 mins         █████████████░░░░░░░░░░░░   53.46 % 
+Workshop Vegas           52 mins             ██████████░░░░░░░░░░░░░░░   41.46 % 
+referenced-chatgpt-conver6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+ria                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (46.84%)
+⏱ AI Coding Time: 1 hr 7 mins (53.8%)
 
-✍️ 334 lines written by AI, 335 lines written by hand (49.93% AI-written)
+✍️ 52 lines written by AI, 107 lines written by hand (32.7% AI-written)
 
-🔤 651,689 Input Tokens, 151,099 Output Tokens
+🔤 611,814 Input Tokens, 145,285 Output Tokens
 
-💵 $30.96 Estimated AI Cost This Week
+💵 $30.08 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 14 AI Prompts
+🧠 4 AI Sessions, 13 AI Prompts
 
-GPT                      334 lines           █████████████████████████   100.00 % 
+GPT                      52 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 49.93% of written lines came from AI
-📝 Concise Prompter — average 436 characters per prompt
+🧑‍💻 Mostly Hands-On — 32.7% of written lines came from AI
+📝 Concise Prompter — average 444 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 54.86% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 76.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +103,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-19 UTC
+ Last Updated on 2026-09-20 UTC
 <!--END_SECTION:waka-->
 
 <!--
