@@ -7,9 +7,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2021%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -48,46 +48,46 @@ Sunday                   91 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 32 mins       █████████████████░░░░░░░░   66.55 % 
-Bash                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Other                    32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python                   3 hrs 14 mins       ████████████████░░░░░░░░░   65.62 % 
+Bash                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Other                    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       ██████████████████████░░░   88.39 % 
-Codex Vscode             25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+VS Code                  3 hrs 56 mins       ████████████████████░░░░░   79.90 % 
+Codex Vscode             59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
 
 🐱‍💻 Projects: 
-Workshop Vegas           3 hrs 15 mins       ███████████████████████░░   90.42 % 
-contributors-unimore-drop10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-referenced-chatgpt-conver6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-nzbdav                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Workshop Vegas           3 hrs 59 mins       ████████████████████░░░░░   81.03 % 
+files-mentioned-by-the-us31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+https-github-com-darsh48813 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+contributors-unimore-drop10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 💻 Operating System: 
-Mac                      3 hrs 36 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (19.08%)
+⏱ AI Coding Time: 1 hr 18 mins (26.7%)
 
-✍️ 52 lines written by AI, 2,911 lines written by hand (1.75% AI-written)
+✍️ 2 lines written by AI, 3,059 lines written by hand (0.07% AI-written)
 
-🔤 138,310 Input Tokens, 12,903 Output Tokens
+🔤 285,609 Input Tokens, 43,985 Output Tokens
 
-💵 $9.12 Estimated AI Cost This Week
+💵 $10.03 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 9 AI Prompts
+🧠 5 AI Sessions, 23 AI Prompts
 
-GPT                      52 lines            █████████████████████████   100.00 % 
+GPT                      2 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.75% of written lines came from AI
-📄 Detailed Prompter — average 624 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 98.74% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.07% of written lines came from AI
+📚 Verbose Prompter — average 1,596 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 99.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +103,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-24 UTC
+ Last Updated on 2026-09-25 UTC
 <!--END_SECTION:waka-->
 
 <!--
