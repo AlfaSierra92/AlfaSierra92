@@ -7,9 +7,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2055%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -48,30 +48,30 @@ Sunday                   91 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 14 mins       ████████████████░░░░░░░░░   65.62 % 
-Bash                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Other                    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Python                   3 hrs 5 mins        ████████████████░░░░░░░░░   64.57 % 
+Bash                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Other                    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       ████████████████████░░░░░   79.90 % 
-Codex Vscode             59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+VS Code                  3 hrs 47 mins       ████████████████████░░░░░   79.29 % 
+Codex Vscode             59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
 
 🐱‍💻 Projects: 
-Workshop Vegas           3 hrs 59 mins       ████████████████████░░░░░   81.03 % 
-files-mentioned-by-the-us31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-https-github-com-darsh48813 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-contributors-unimore-drop10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Workshop Vegas           3 hrs 50 mins       ████████████████████░░░░░   80.45 % 
+files-mentioned-by-the-us31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+https-github-com-darsh48813 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+contributors-unimore-drop10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 💻 Operating System: 
-Mac                      4 hrs 55 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (26.7%)
+⏱ AI Coding Time: 1 hr 18 mins (27.51%)
 
 ✍️ 2 lines written by AI, 3,059 lines written by hand (0.07% AI-written)
 
@@ -103,7 +103,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-25 UTC
+ Last Updated on 2026-09-26 UTC
 <!--END_SECTION:waka-->
 
 <!--
