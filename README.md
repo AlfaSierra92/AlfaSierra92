@@ -48,31 +48,29 @@ Sunday                   91 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 58 mins       ████████████████████░░░░░   78.83 % 
-Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-PostScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Python                   1 hr 22 mins        ████████████████░░░░░░░░░   64.63 % 
+Other                    31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Text                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 1 min         ████████████████████░░░░░   80.31 % 
-Codex Vscode             44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+VS Code                  1 hr 23 mins        ████████████████░░░░░░░░░   65.26 % 
+Codex Vscode             44 mins             █████████░░░░░░░░░░░░░░░░   34.74 % 
 
 🐱‍💻 Projects: 
-Workshop Vegas           3 hrs 1 min         ████████████████████░░░░░   79.95 % 
-files-mentioned-by-the-us31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-https-github-com-darsh48813 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Workshop Vegas           1 hr 22 mins        ████████████████░░░░░░░░░   64.63 % 
+files-mentioned-by-the-us31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+https-github-com-darsh48813 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 
 💻 Operating System: 
-Mac                      3 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (21.06%)
+⏱ AI Coding Time: 47 mins (37.15%)
 
-✍️ 2 lines written by AI, 2,766 lines written by hand (0.07% AI-written)
+✍️ 2 lines written by AI, 242 lines written by hand (0.82% AI-written)
 
 🔤 166,256 Input Tokens, 26,125 Output Tokens
 
@@ -83,10 +81,10 @@ Mac                      3 hrs 46 mins       ███████████�
 GPT                      2 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.07% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.82% of written lines came from AI
 📚 Verbose Prompter — average 2,393 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 99.96% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.92% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +100,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-29 UTC
+ Last Updated on 2026-09-30 UTC
 <!--END_SECTION:waka-->
 
 <!--
