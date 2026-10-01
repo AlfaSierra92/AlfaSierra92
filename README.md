@@ -48,43 +48,41 @@ Sunday                   91 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 22 mins        ████████████████░░░░░░░░░   64.63 % 
-Other                    31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-Text                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Other                    33 mins             ██████████████████░░░░░░░   71.69 % 
+Python                   13 mins             ███████░░░░░░░░░░░░░░░░░░   28.31 % 
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        ████████████████░░░░░░░░░   65.26 % 
-Codex Vscode             44 mins             █████████░░░░░░░░░░░░░░░░   34.74 % 
+Codex Vscode             33 mins             ██████████████████░░░░░░░   71.69 % 
+VS Code                  13 mins             ███████░░░░░░░░░░░░░░░░░░   28.31 % 
 
 🐱‍💻 Projects: 
-Workshop Vegas           1 hr 22 mins        ████████████████░░░░░░░░░   64.63 % 
-files-mentioned-by-the-us31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-https-github-com-darsh48813 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+files-mentioned-by-the-us33 mins             ██████████████████░░░░░░░   71.69 % 
+Workshop Vegas           13 mins             ███████░░░░░░░░░░░░░░░░░░   28.31 % 
 
 💻 Operating System: 
-Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      46 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (37.15%)
+⏱ AI Coding Time: 35 mins (76.6%)
 
-✍️ 2 lines written by AI, 242 lines written by hand (0.82% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 166,256 Input Tokens, 26,125 Output Tokens
+🔤 236,847 Input Tokens, 30,657 Output Tokens
 
-💵 $8.99 Estimated AI Cost This Week
+💵 $5.46 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 14 AI Prompts
+🧠 2 AI Sessions, 11 AI Prompts
 
-GPT                      2 lines             █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.82% of written lines came from AI
-📚 Verbose Prompter — average 2,393 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 99.92% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 439 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -100,7 +98,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-30 UTC
+ Last Updated on 2026-10-01 UTC
 <!--END_SECTION:waka-->
 
 <!--
