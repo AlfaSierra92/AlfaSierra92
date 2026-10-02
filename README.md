@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2055%20mins-blue?style=flat)
 
@@ -48,40 +48,40 @@ Sunday                   91 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    33 mins             ██████████████████░░░░░░░   71.69 % 
-Python                   13 mins             ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+Python                   9 mins              █████████████████████░░░░   84.87 % 
+Other                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 
 🔥 Editors: 
-Codex Vscode             33 mins             ██████████████████░░░░░░░   71.69 % 
-VS Code                  13 mins             ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+VS Code                  9 mins              █████████████████████░░░░   84.87 % 
+Codex Vscode             1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 
 🐱‍💻 Projects: 
-files-mentioned-by-the-us33 mins             ██████████████████░░░░░░░   71.69 % 
-Workshop Vegas           13 mins             ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+Workshop Vegas           9 mins              █████████████████████░░░░   84.87 % 
+files-mentioned-by-the-us1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 
 💻 Operating System: 
-Mac                      46 mins             █████████████████████████   100.00 % 
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (76.6%)
+⏱ AI Coding Time: 1 min (15.13%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 236,847 Input Tokens, 30,657 Output Tokens
+🔤 71,429 Input Tokens, 2,872 Output Tokens
 
-💵 $5.46 Estimated AI Cost This Week
+💵 $1.24 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 439 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 146 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -98,7 +98,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-01 UTC
+ Last Updated on 2026-10-02 UTC
 <!--END_SECTION:waka-->
 
 <!--
