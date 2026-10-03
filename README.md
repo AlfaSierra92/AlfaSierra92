@@ -48,41 +48,22 @@ Sunday                   91 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 mins              █████████████████████░░░░   84.87 % 
-Other                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Python                   9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████░░░░   84.87 % 
-Codex Vscode             1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Workshop Vegas           9 mins              █████████████████████░░░░   84.87 % 
-files-mentioned-by-the-us1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Workshop Vegas           9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (15.13%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 71,429 Input Tokens, 2,872 Output Tokens
-
-💵 $1.24 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 146 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -98,7 +79,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-02 UTC
+ Last Updated on 2026-10-03 UTC
 <!--END_SECTION:waka-->
 
 <!--
