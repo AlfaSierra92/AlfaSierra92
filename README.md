@@ -48,27 +48,27 @@ Sunday                   91 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   11 mins             ████████████████████████░   97.39 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Python                   1 hr                █████████████████████████   99.48 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  11 mins             ████████████████████████░   97.39 % 
-Codex Vscode             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+VS Code                  1 hr                █████████████████████████   99.48 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🐱‍💻 Projects: 
-Workshop Vegas           11 mins             ████████████████████████░   97.39 % 
-fa                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Workshop Vegas           1 hr                █████████████████████████   99.48 % 
+fa                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+Mac                      1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (2.61%)
+⏱ AI Coding Time: 0 secs (0.52%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 89 lines written by hand (0.0% AI-written)
 
 🔤 43,061 Input Tokens, 538 Output Tokens
 
@@ -79,10 +79,10 @@ Mac                      11 mins             ███████████�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📄 Detailed Prompter — average 1,093 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -98,7 +98,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-08 UTC
+ Last Updated on 2026-10-09 UTC
 <!--END_SECTION:waka-->
 
 <!--
