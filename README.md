@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2034%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2056%20mins-blue?style=flat)
 
@@ -48,41 +48,43 @@ Sunday                   91 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 12 mins        █████████████████████████   99.57 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Python                   1 hr 17 mins        █████████████████████░░░░   83.39 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Docker                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   99.57 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+VS Code                  1 hr 3 mins         █████████████████░░░░░░░░   68.54 % 
+Codex Vscode             29 mins             ████████░░░░░░░░░░░░░░░░░   31.46 % 
 
 🐱‍💻 Projects: 
-Workshop Vegas           1 hr 12 mins        █████████████████████████   99.57 % 
-fa                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Workshop Vegas           1 hr                ████████████████░░░░░░░░░   65.84 % 
+Finance                  31 mins             █████████░░░░░░░░░░░░░░░░   34.16 % 
 
 💻 Operating System: 
-Mac                      1 hr 12 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.43%)
+⏱ AI Coding Time: 30 mins (32.45%)
 
-✍️ 0 lines written by AI, 1,269 lines written by hand (0.0% AI-written)
+✍️ 164 lines written by AI, 1,270 lines written by hand (11.44% AI-written)
 
-🔤 43,061 Input Tokens, 538 Output Tokens
+🔤 176,109 Input Tokens, 27,230 Output Tokens
 
-💵 $0.10 Estimated AI Cost This Week
+💵 $1.19 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      164 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,093 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 11.44% of written lines came from AI
+📝 Concise Prompter — average 246 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 97.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -98,7 +100,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-13 UTC
+ Last Updated on 2026-10-14 UTC
 <!--END_SECTION:waka-->
 
 <!--
