@@ -48,45 +48,44 @@ Sunday                   91 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    40 mins             ███████████░░░░░░░░░░░░░░   42.39 % 
-Python                   35 mins             █████████░░░░░░░░░░░░░░░░   37.64 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Docker                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Other                    40 mins             ████████████████░░░░░░░░░   63.69 % 
+Python                   19 mins             ████████░░░░░░░░░░░░░░░░░   30.73 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 9 mins         ██████████████████░░░░░░░   73.18 % 
-VS Code                  25 mins             ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+Codex Vscode             40 mins             ████████████████░░░░░░░░░   64.60 % 
+VS Code                  22 mins             █████████░░░░░░░░░░░░░░░░   35.40 % 
 
 🐱‍💻 Projects: 
-pe                       40 mins             ███████████░░░░░░░░░░░░░░   42.39 % 
-Finance                  35 mins             █████████░░░░░░░░░░░░░░░░   37.16 % 
-Workshop Vegas           19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+pe                       40 mins             ████████████████░░░░░░░░░   63.69 % 
+Workshop Vegas           19 mins             ████████░░░░░░░░░░░░░░░░░   30.73 % 
+Finance                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 💻 Operating System: 
-Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 12 mins (77.2%)
+⏱ AI Coding Time: 42 mins (68.26%)
 
-✍️ 164 lines written by AI, 6 lines written by hand (96.47% AI-written)
+✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
 
-🔤 278,082 Input Tokens, 31,842 Output Tokens
+🔤 101,973 Input Tokens, 4,612 Output Tokens
 
-💵 $1.52 Estimated AI Cost This Week
+💵 $0.46 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 18 AI Prompts
+🧠 1 AI Sessions, 11 AI Prompts
 
-GPT                      164 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.47% of written lines came from AI
-📝 Concise Prompter — average 328 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 4.65% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 381 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +101,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-20 UTC
+ Last Updated on 2026-10-21 UTC
 <!--END_SECTION:waka-->
 
 <!--
