@@ -48,44 +48,22 @@ Sunday                   91 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    40 mins             ████████████████░░░░░░░░░   63.69 % 
-Python                   19 mins             ████████░░░░░░░░░░░░░░░░░   30.73 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             40 mins             ████████████████░░░░░░░░░   64.60 % 
-VS Code                  22 mins             █████████░░░░░░░░░░░░░░░░   35.40 % 
+Codex Vscode             0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pe                       40 mins             ████████████████░░░░░░░░░   63.69 % 
-Workshop Vegas           19 mins             ████████░░░░░░░░░░░░░░░░░   30.73 % 
-Finance                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (68.26%)
-
-✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
-
-🔤 101,973 Input Tokens, 4,612 Output Tokens
-
-💵 $0.46 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 11 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 381 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +79,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-21 UTC
+ Last Updated on 2026-10-22 UTC
 <!--END_SECTION:waka-->
 
 <!--
