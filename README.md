@@ -7,15 +7,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2028%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%209%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 187.9 kB Used in GitHub's Storage 
  > 
-> 🏆 71 Contributions in the Year 2026
+> 🏆 72 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,49 +19,6 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                432 commits         ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-🌆 Daytime                1124 commits        ███████████████░░░░░░░░░░   58.51 % 
-🌃 Evening                359 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Tuesday                  470 commits         ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
-Wednesday                310 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Thursday                 293 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Friday                   180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Saturday                 297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Sunday                   91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-Codex Vscode             0 secs              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -79,7 +32,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-01 UTC
+ Last Updated on 2026-11-03 UTC
 <!--END_SECTION:waka-->
 
 <!--
