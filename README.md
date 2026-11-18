@@ -48,41 +48,41 @@ Sunday                   91 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 35 mins        ███████████████░░░░░░░░░░   60.11 % 
-Markdown                 32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Other                    31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+C++                      49 mins             ██████████████░░░░░░░░░░░   56.33 % 
+Other                    28 mins             ████████░░░░░░░░░░░░░░░░░   32.85 % 
+Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        █████████████░░░░░░░░░░░░   51.05 % 
-Codex Vscode             1 hr 18 mins        ████████████░░░░░░░░░░░░░   48.95 % 
+Codex Vscode             48 mins             ██████████████░░░░░░░░░░░   56.06 % 
+VS Code                  38 mins             ███████████░░░░░░░░░░░░░░   43.94 % 
 
 🐱‍💻 Projects: 
-DCC                      2 hrs 11 mins       █████████████████████░░░░   82.05 % 
-gen                      24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-chiederei-vostro-aiuto-su4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+DCC                      58 mins             █████████████████░░░░░░░░   67.15 % 
+gen                      24 mins             ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+chiederei-vostro-aiuto-su4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 💻 Operating System: 
-Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 35 mins (97.38%)
+⏱ AI Coding Time: 1 hr 27 mins (100.0%)
 
 ✍️ 560 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 729,814 Input Tokens, 102,079 Output Tokens
+🔤 369,512 Input Tokens, 66,641 Output Tokens
 
-💵 $4.42 Estimated AI Cost This Week
+💵 $2.50 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 35 AI Prompts
+🧠 3 AI Sessions, 17 AI Prompts
 
 GPT                      560 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 220 characters per prompt
+📝 Concise Prompter — average 138 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -100,7 +100,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-17 UTC
+ Last Updated on 2026-11-18 UTC
 <!--END_SECTION:waka-->
 
 <!--
