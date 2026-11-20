@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2041%20mins-blue?style=flat)
 
@@ -15,7 +15,7 @@
 
 > 📦 189.2 kB Used in GitHub's Storage 
  > 
-> 🏆 73 Contributions in the Year 2026
+> 🏆 75 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                450 commits         ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-🌆 Daytime                1162 commits        ███████████████░░░░░░░░░░   58.69 % 
-🌃 Evening                362 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+🌞 Morning                453 commits         ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+🌆 Daytime                1164 commits        ███████████████░░░░░░░░░░   58.64 % 
+🌃 Evening                362 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
 🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   286 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Tuesday                  504 commits         ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Wednesday                315 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Thursday                 303 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Friday                   182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Saturday                 297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Sunday                   93 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Monday                   286 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Tuesday                  504 commits         ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+Wednesday                316 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Thursday                 307 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Friday                   182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Saturday                 297 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Sunday                   93 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 
 
@@ -48,40 +48,37 @@ Sunday                   93 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    28 mins             ██████████████████░░░░░░░   70.50 % 
-C++                      11 mins             ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+C++                      11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             28 mins             ██████████████████░░░░░░░   70.71 % 
-VS Code                  11 mins             ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+VS Code                  11 mins             █████████████████████████   99.30 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🐱‍💻 Projects: 
-gen                      24 mins             ███████████████░░░░░░░░░░   59.17 % 
-DCC                      11 mins             ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-chiederei-vostro-aiuto-su4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+DCC                      11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      40 mins             █████████████████████████   100.00 % 
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (70.71%)
+⏱ AI Coding Time: 0 secs (0.7%)
 
 ✍️ 0 lines written by AI, 4 lines written by hand (0.0% AI-written)
 
-🔤 191,815 Input Tokens, 27,462 Output Tokens
+🔤 4,674 Input Tokens, 129 Output Tokens
 
-💵 $1.04 Estimated AI Cost This Week
+💵 $0.72 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 385 characters per prompt
+📝 Concise Prompter — average 371 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -99,7 +96,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-19 UTC
+ Last Updated on 2026-11-20 UTC
 <!--END_SECTION:waka-->
 
 <!--
