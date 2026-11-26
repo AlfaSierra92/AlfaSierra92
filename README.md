@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaSierra92&theme=nord&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2028%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2041%20mins-blue?style=flat)
 
@@ -48,44 +48,25 @@ Sunday                   93 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      11 mins             ███████████░░░░░░░░░░░░░░   44.81 % 
-Shell                    7 mins              ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-Git Config               4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Shell                    7 mins              █████████████░░░░░░░░░░░░   52.98 % 
+Git Config               4 mins              ████████░░░░░░░░░░░░░░░░░   33.49 % 
+Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   99.69 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-native80211p             14 mins             ██████████████░░░░░░░░░░░   55.19 % 
-DCC                      11 mins             ███████████░░░░░░░░░░░░░░   44.81 % 
+native80211p             14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.31%)
-
-✍️ 0 lines written by AI, 9 lines written by hand (0.0% AI-written)
-
-🔤 4,674 Input Tokens, 129 Output Tokens
-
-💵 $0.01 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 371 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +82,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-25 UTC
+ Last Updated on 2026-11-26 UTC
 <!--END_SECTION:waka-->
 
 <!--
