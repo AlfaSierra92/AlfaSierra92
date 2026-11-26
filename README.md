@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 👨‍💻 **Research fellow in Computer Engineering** at [UNIMORE](https://international.unimore.it/).
-- 👨‍🎓 **M.Sc in Computer Engineering** with a specialization in cloud & cybersecurity from [UNIMORE](https://international.unimore.it/).
+- 👨‍💻 **PhD student in Computer and Data Science for Technological and Social Innovation** at [UNIMORE](https://international.unimore.it/).
+- 👨‍💻 **Former research fellow in Computer Engineering** at [UNIMORE](https://international.unimore.it/).
+- 👨‍🎓 **M.Sc. in Computer Engineering** with a specialization in cloud & cybersecurity from [UNIMORE](https://international.unimore.it/).
 
 
 ![AlfaSierra92's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfaSierra92&theme=nord)
